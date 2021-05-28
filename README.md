@@ -1,15 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Sajjad Sadiq👋
 
-**sajjadsadiqofficial/sajjadsadiqofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 About me
+I am a MERN-Stack WEB Developer. I consider myself a good honest hard working MEAN. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
 
-Here are some ideas to get you started:
+I'm a MERN-Stack developer with more than 1 years of experience, designing, developing. I can write both front-end and back-end and professional full-stack web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✅ Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, React Bootstrap, Material UI, React Icons, WordPress Theme Customize, WordPress Theme Development, Media Queries, etc.
+
+✅ Comfortable: Angular, Typescript, Node JS, Express JS, SCSS, JSON, npm, MySQL, Skeleton, Firebase, Basic PHP, etc.
+
+✅ Familiar: React native, Chrome extension, python, SQL, PHP, etc.
+
+✅ Tools: Git, Webpack, Chrome Dev Tool, Firebase, Heroku, Netlify, VS Code, etc.
+
+👨‍💻 GitHub: https://sajjaddev.web.app/
+
+
+All builds are fully responsive, SEO friendly and speed optimized.
+
+I am a very optimistic person and I like to have fun and be happy. My favourite book about software development is Code Complete(Steve McConnell). I'm looking forward to working with you.
+
+✉️ Contact me so we can discuss in detail the website to build.
+
+Thanks 😇🙏.
+
+
 
