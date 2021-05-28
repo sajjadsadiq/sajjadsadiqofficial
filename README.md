@@ -13,7 +13,7 @@ I'm a MERN-Stack developer with more than 1 years of experience, designing, deve
 
 ✅ Tools: Git, Webpack, Chrome Dev Tool, Firebase, Heroku, Netlify, VS Code, etc.
 
-👨‍💻 GitHub: https://sajjaddev.web.app/
+ <p style="color:blue;text-align:center;">🌐 You can see some of my projects on my portfolio.: https://sajjaddev.web.app/</p>
 
 
 All builds are fully responsive, SEO friendly and speed optimized.
