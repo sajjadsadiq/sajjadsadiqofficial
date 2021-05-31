@@ -1,9 +1,18 @@
 ### Hi there, I'm Sajjad Sadiq👋
 
 <h2> 📖 About me </h2>
-I am a <strong> MERN-Stack </strong> WEB Developer. I consider myself a good honest hard working MEAN. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
+I'm a <strong> MERN-Stack </strong> Developer with Industry Experience building Websites and Web Applications.I specialize in JavaScript and have professional experience working with React, Node.js, MongoDB, and Typescript. I consider myself a good honest hard working <strong> MEAN </strong>.
 
-I'm a MERN-Stack developer with more than 1 years of experience, designing, developing. I can write both front-end and back-end and professional full-stack web developer.
+.
+
+I also have experience in developing static websites Desing using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer.
+
+MERN Stack developer with more than 1 year of Experience, Designing, Developing, Databases. I can write as Both Front-End and Back-End. I also monitor and process pull requests for production deployments.
+
+.
+
+Technologies Used:
+-----------------
 
 ✅ Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, React Bootstrap, Material UI, React Icons, WordPress Theme Customize, WordPress Theme Development, Media Queries, etc.
 
@@ -13,7 +22,7 @@ I'm a MERN-Stack developer with more than 1 years of experience, designing, deve
 
 ✅ Tools: Git, Webpack, Chrome Dev Tool, Firebase, Heroku, Netlify, VS Code, etc.
 
- <p>🌐 You can see some of my projects on my portfolio.: https://sajjaddev.web.app/</p>
+ <p>🌐 You can see some of my projects on my portfolio: https://sajjaddev.web.app/</p>
 
 
 All builds are fully responsive, SEO friendly and speed optimized.
