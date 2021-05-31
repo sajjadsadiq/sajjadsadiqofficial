@@ -22,7 +22,9 @@ Technologies Used:
 
 ✅ Tools: Git, Webpack, Chrome Dev Tool, Firebase, Heroku, Netlify, VS Code, etc.
 
- <p>🌐 You can see some of my projects on my portfolio: https://sajjaddev.web.app/</p>
+.
+
+🌐 You can see some of my projects on my portfolio: https://sajjaddev.web.app/
 
 
 All builds are fully responsive, SEO friendly and speed optimized.
