@@ -11,8 +11,8 @@ MERN Stack developer with more than 1 year of Experience, Designing, Developing,
 
 .
 
-👨‍💻 Technologies Used:
------------------
+👨‍💻 Technologies Used
+--------------------
 
 ✅ Expertise: JavaScript, ES6, React, Redux, Angular6, Bootstrap, React Bootstrap, Material UI, React Icons, WordPress Theme Customize, WordPress Theme Development, Media Queries, etc.
 
