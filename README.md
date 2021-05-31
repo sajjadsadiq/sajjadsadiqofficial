@@ -31,6 +31,8 @@ All builds are fully responsive, SEO friendly and speed optimized.
 
 I am a very optimistic person and I like to have fun and be happy. My favourite book about software development is Code Complete(Steve McConnell). I'm looking forward to working with you.
 
+.
+
 ✉️ Contact me so we can discuss in detail the website to build.
 
 Thanks 😇🙏.
